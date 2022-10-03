@@ -7,4 +7,4 @@
 4. [GitCLI](https://git-scm.com/docs/gitcli)
 
 Creat a new environment
-conda new n
+conda create -p venv python==3.7 -y
